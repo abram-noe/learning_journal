@@ -26,9 +26,6 @@ I’m passionate about **web development, animations, and programming**. I belie
 ---
 
 ## 🗂 Journal Structure
----
-
-## 🗂 Journal Structure
 
 I organize my learning notes and projects by topics:
 Each folder contains:  
