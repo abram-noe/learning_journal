@@ -56,7 +56,7 @@ I follow a **hands-on approach**:
 ## 📬 Connect with Me
 
 - GitHub: [https://github.com/abram-noe](https://github.com/abram-noe)  
-- Portfolio: abram-noe.github.io  
+- Portfolio: https://abram-noe.github.io  
 
 ---
 
